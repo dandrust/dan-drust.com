@@ -7,7 +7,7 @@ tags: cs
 excerpt_separator: <!--more-->
 ---
 
-I'm taking the Computer Architecture course at [Bradfield CS](https://bradfieldcs.com/). <!--more--> Bradfield's courses are ideal for self-taught learners and bootcamp grads who want to fill in some CS fundamentals.  My goals for the course are:
+I'm took the Computer Architecture course at [Bradfield CS](https://bradfieldcs.com/). <!--more--> Bradfield's courses are ideal for self-taught learners and bootcamp grads who want to fill in some CS fundamentals.  My goals for the course are:
 
 * Understand the hardware/software interface
 * Build a better mental model of computer hardware as it relates to software engineering
