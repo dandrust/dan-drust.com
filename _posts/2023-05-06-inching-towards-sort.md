@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Database Daily: Inching Toward `Sort`"
-date: 2023-05-04
+date: 2023-05-06
 category: toy-database
 ---
 **Goal**: Get a little closer...
