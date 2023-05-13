@@ -14,5 +14,7 @@ Lately, test driven development has been quite helpful. Manual test setup was ge
 
 Documenting the journey has helped me reload and keep context in my brain. I often will reference the previous day's blog entry and review the code, talking through it as I go. I try to record myself on Loom most days (even if I don't post the videos) as if I were leading a code-along activity.  On more than one occasion I've found errors and issues because I was explaining an algorithm to my "audience" and realized what was wrong. It feels silly, but it's worked as a rubber ducky placebo.
 
+Finally, I can't understate the value of side quests in a project like this. It's really about following the motivation! Working at sort hasn't burned me out because along the way I've worked on binary encodings, writing a file format, implementing a buffer cache, etc, etc, etc. I've tried to keep myself focused on what will drive me towards an overall goal, but I've tried to balance that with not shying away from a small challenge here or there.
+
 Next time I may revist my goal of stringing together enough nodes to emulate a simple single-table query plan. Either that or start tacklin a `Hash` executor node.
 
