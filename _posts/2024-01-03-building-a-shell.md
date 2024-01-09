@@ -2,6 +2,7 @@
 layout: post
 title: "Building a Shell"
 date: 2023-01-03
+category: posts
 ---
 
 I've been part of an early release of [CS Primer](https://csprimer.com) and the [Operating System module](https://csprimer.com/courses/operating-systems/#processes) includes a series of challenges to build a shell. It's a project that I'd been wanting to tackle for a while, so I started it back in October.  And it's finally done!
